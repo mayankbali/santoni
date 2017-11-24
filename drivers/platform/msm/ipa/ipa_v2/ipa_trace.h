@@ -133,5 +133,4 @@ TRACE_EVENT(
 #undef TRACE_INCLUDE_PATH
 #define TRACE_INCLUDE_PATH .
 /* define TRACE_INCLUDE_PATH .*/
-#define TRACE_INCLUDE_PATH ../../drivers/platform/msm/ipa/ipa_v2
 #include <trace/define_trace.h>
